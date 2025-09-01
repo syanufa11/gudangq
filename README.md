@@ -60,7 +60,7 @@ Aplikasi ini dibuat menggunakan **CodeIgniter 4** untuk mencatat barang masuk, k
 - Input data pembelian barang.
 - Fitur cetak PDF nota pembelian.
 
-### 📥📤 Transaksi Barang Masuk & Keluar
+### 📥 Transaksi Barang Masuk & Keluar
 
 - Mencatat transaksi barang masuk dan keluar.
 
