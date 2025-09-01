@@ -5,7 +5,6 @@ namespace App\Controllers\Transaksi;
 use App\Controllers\BaseController;
 use App\Models\BarangMasukModel;
 
-require_once ROOTPATH . 'vendor/dompdf/autoload.inc.php';
 use Dompdf\Dompdf;
 
 class BarangMasuk extends BaseController

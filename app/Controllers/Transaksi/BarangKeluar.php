@@ -7,7 +7,6 @@ use App\Models\BarangKeluarModel;
 use App\Models\DetailBarangKeluarModel;
 use App\Models\BarangModel;
 
-require_once ROOTPATH . 'vendor/dompdf/autoload.inc.php';
 use Dompdf\Dompdf;
 
 class BarangKeluar extends BaseController

@@ -7,8 +7,6 @@ use App\Models\PembelianModel;
 use App\Models\DetailPembelianModel;
 use App\Models\BarangModel;
 use App\Models\BarangMasukModel;
-
-require_once ROOTPATH . 'vendor/dompdf/autoload.inc.php';
 use Dompdf\Dompdf;
 
 class PembelianController extends BaseController
